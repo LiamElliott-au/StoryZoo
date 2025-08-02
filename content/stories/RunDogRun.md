@@ -1,11 +1,10 @@
 ---
 title: "Run! Dog! Run!"
 date: 2025-01-19
-description: "Every day Tillie goes for an adventure."
-tags: ["adventure", "Tillie", "toad"]
+image: "images/runDogRun.png"
+description: "Every day Tillie goes for an adventure. What is today's adventure"
+tags: ["Adventure", "Tillie", "Toad", "Dog"]
 ---
-# Run! Dog! Run!
-
 Every day Tillie goes for an adventure. Today She went to the wetlands. But as she got there she realised that they were cursed by an evil toad!
 
 She tried so so so so so so so hard to get out but it was covered in a force field!

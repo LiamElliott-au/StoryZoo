@@ -1,9 +1,10 @@
 ---
 title: "The Play: Part 1"
 date: 2025-01-19
-description: "Every day Tillie goes for an adventure."
-tags: ["adventure", "Tillie", "toad"]
+description: "Ashleta tries out for the lead role in the upcoming play. Does she have what it takes?"
+tags: ["Ashleta", "Rosie", "Drama"]
 ---
+
 ## Chapter 1
 
 One sunny day, a little dingo named Ashleta asks her sister Rosie “Can.You. Be. Quiet?! I need to relax before I go to Alena’s house. PLEASE stop chick-chick-chicking! If you do, I will save you a splice!” That did it. Rosie immediately went quiet licking her lips at the cold fruity taste of a splice.

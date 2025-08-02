@@ -1,8 +1,8 @@
 ---
 title: "Xmas Problem"
 date: 2025-01-19
-description: "Every day Tillie goes for an adventure."
-tags: ["adventure", "Tillie", "toad"]
+description: "The night before Christmas, there is a problem with Santa's Sleigh. Can Zing, the Elf, find a way to save Christmas"
+tags: ["Christmas", "Zing", "Trouble"]
 ---
 One day, a little before Xmas eve Santa asked his smallest scout elf Zing " Ho ho ho! How are Charlie, Anabelle, Eadie, Kya and Rosie going!? All on the nice list I hope! Ho ho ho! I heard from Mo, my biggest scout that his *6* are doing well!" Zing thought for a moment or two and said "Put everyone but Rosie on the nice - that Kiddo has been painting everything!" Then with that Zing left to the sky to find Clarisa. Unfortunately she was working on Santa’s sleigh. But Zing called out "Clarisa c-c-c-can we t-t-t-talk?" It was so cold they were shivering. Clarisa rose and said "She Zingadinding! L-let’s go!" 
 

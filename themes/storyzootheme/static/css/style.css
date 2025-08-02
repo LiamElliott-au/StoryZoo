@@ -335,10 +335,6 @@ p {
     font-size: 3rem;
 }
 
-.story-content {
-    padding: 1.5rem;
-}
-
 .story-title {
     font-size: 1.5rem;
     margin-bottom: 0.5rem;
@@ -486,7 +482,7 @@ p {
 }
 
 .story-content {
-    padding: 4rem 0;
+    padding: 4rem 1.5rem;
 }
 
 .content-wrapper {

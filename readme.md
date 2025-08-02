@@ -31,3 +31,9 @@ Cloudflare is configured to build and deploy ALL changes to the Main branch to p
 ## Dependencies
 
 Bootstrap added as per: [https://www.noorix.com.au/blog/how-to/static-website-hugo-bootstrap-serverless-2](https://www.noorix.com.au/blog/how-to/static-website-hugo-bootstrap-serverless-2)
+
+
+## TODO:
+
+1. [] - Ensure FavIcon is correct
+1. [] - Story Card needs to be link. Not just the read more 
