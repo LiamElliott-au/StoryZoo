@@ -6,6 +6,8 @@ theme = "storyzootheme"
 [params]
   description = "A magical place where stories come alive with animal friends and adventures! Join our young storyteller as she shares wonderful tales filled with imagination, friendship, and life lessons."
   author = "Story Zoo"
+  # Google Analytics - replace with your actual GA4 measurement ID
+  googleAnalytics = "G-G170M0GJXP"
 
 [menu]
   [[menu.main]]
