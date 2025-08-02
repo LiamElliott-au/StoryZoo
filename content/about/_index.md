@@ -18,7 +18,7 @@ I am 9 years old, from Sydney Australia where I live with my Mum, Dad, Brother a
 
 My biggest passion is reading. I love the stories from authors like [Enid Blyton](https://en.wikipedia.org/wiki/Enid_Blyton), [Jen Storer](https://jenstorer.com/), [Laura Sieveking](https://writingnsw.org.au/people/laura-sieveking/) and [Jacqueline Harvey](https://jacquelineharvey.com.au/).
 
-I enjoy watching musical theater and in 2024 I started performing drama and musical theater with [Inspire Creative Arts](https://www.inspirecreativearts.com.au/). 
+I enjoy watching musical theatre and in 2024 I started performing drama and musical theatrs with [Inspire Creative Arts](https://www.inspirecreativearts.com.au/). 
 
 ### Sport
 

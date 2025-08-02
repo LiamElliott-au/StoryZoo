@@ -24,7 +24,7 @@
                     {{ end }}
                 </div>
                 <div class="story-content">
-                    <h3 class="story-title">{{ .Title }}</h3>
+                    <a href="{{ .Permalink }}" ><h3 class="story-title">{{ .Title }}</h3></a>
                     <p class="story-excerpt">{{ .Summary | truncate 150 }}</p>
                     <div class="story-meta">
                         <span class="story-date">{{ .Date.Format "January 2, 2006" }}</span>
