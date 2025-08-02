@@ -1,0 +1,62 @@
+{{ define "main" }}
+<article class="story-single">
+    <header class="story-header">
+        <div class="container">
+            <div class="story-meta">
+                <span class="story-category">{{ .Section | title }}</span>
+                <span class="story-date">{{ .Date.Format "January 2, 2006" }}</span>
+                <span class="story-reading-time">{{ .ReadingTime }} min read</span>
+            </div>
+            <h1 class="story-title">{{ .Title }}</h1>
+            {{ if .Params.description }}
+            <p class="story-description">{{ .Params.description }}</p>
+            {{ end }}
+            {{ if .Params.image }}
+            <div class="story-featured-image">
+                <img src="{{ .Params.image | relURL }}" alt="{{ .Title }}">
+            </div>
+            {{ end }}
+        </div>
+    </header>
+
+    <div class="story-content">
+        <div class="container">
+            <div class="content-wrapper">
+                {{ .Content }}
+            </div>
+        </div>
+    </div>
+
+    <footer class="story-footer">
+        <div class="container">
+            <div class="story-tags">
+                {{ if .Params.tags }}
+                <h4>Story Tags:</h4>
+                <ul class="tag-list">
+                    {{ range .Params.tags }}
+                    <li class="tag">{{ . }}</li>
+                    {{ end }}
+                </ul>
+                {{ end }}
+            </div>
+            
+            <div class="story-navigation">
+                {{ if .PrevInSection }}
+                <a href="{{ .PrevInSection.Permalink }}" class="nav-link prev-story">
+                    <span class="nav-direction">← Previous Story</span>
+                    <span class="nav-title">{{ .PrevInSection.Title }}</span>
+                </a>
+                {{ end }}
+                
+                {{ if .NextInSection }}
+                <a href="{{ .NextInSection.Permalink }}" class="nav-link next-story">
+                    <span class="nav-direction">Next Story →</span>
+                    <span class="nav-title">{{ .NextInSection.Title }}</span>
+                </a>
+                {{ end }}
+            </div>
+        </div>
+    </footer>
+</article>
+{{ end }}
+

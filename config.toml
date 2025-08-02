@@ -1,0 +1,34 @@
+baseURL = "http://localhost:1313"
+languageCode = "en-us"
+title = "Story Zoo"
+theme = "storyzootheme"
+
+[params]
+  description = "A magical place where stories come alive with animal friends and adventures! Join our young storyteller as she shares wonderful tales filled with imagination, friendship, and life lessons."
+  author = "Story Zoo"
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+  
+  [[menu.main]]
+    name = "Stories"
+    url = "/stories/"
+    weight = 2
+  
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 3
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+

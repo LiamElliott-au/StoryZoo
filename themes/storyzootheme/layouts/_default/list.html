@@ -1,0 +1,57 @@
+{{ define "main" }}
+<section class="page-header">
+    <div class="container">
+        <h1 class="page-title">{{ .Title }}</h1>
+        {{ if .Content }}
+        <div class="page-description">
+            {{ .Content }}
+        </div>
+        {{ end }}
+    </div>
+</section>
+
+<section class="stories-listing">
+    <div class="container">
+        {{ if .Pages }}
+        <div class="stories-grid">
+            {{ range .Pages }}
+            <article class="story-card">
+                <div class="story-image">
+                    {{ if .Params.image }}
+                    <img src="{{ .Params.image | relURL }}" alt="{{ .Title }}">
+                    {{ else }}
+                    <div class="story-placeholder">📖</div>
+                    {{ end }}
+                </div>
+                <div class="story-content">
+                    <h3 class="story-title">{{ .Title }}</h3>
+                    <p class="story-excerpt">{{ .Summary | truncate 150 }}</p>
+                    <div class="story-meta">
+                        <span class="story-date">{{ .Date.Format "January 2, 2006" }}</span>
+                        <span class="story-reading-time">{{ .ReadingTime }} min read</span>
+                    </div>
+                    {{ if .Params.tags }}
+                    <div class="story-tags">
+                        {{ range first 3 .Params.tags }}
+                        <span class="tag">{{ . }}</span>
+                        {{ end }}
+                    </div>
+                    {{ end }}
+                    <a href="{{ .Permalink }}" class="story-link">Read Story</a>
+                </div>
+            </article>
+            {{ end }}
+        </div>
+        {{ else }}
+        <div class="no-stories">
+            <div class="no-stories-content">
+                <div class="no-stories-icon">📚</div>
+                <h3>No stories yet!</h3>
+                <p>Check back soon for amazing new adventures with our animal friends.</p>
+            </div>
+        </div>
+        {{ end }}
+    </div>
+</section>
+{{ end }}
+

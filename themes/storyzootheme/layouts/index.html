@@ -1,0 +1,84 @@
+{{ define "main" }}
+<section class="hero">
+    <div class="hero-content">
+        <div class="hero-text">
+            <h1 class="hero-title">Welcome to Story Zoo!</h1>
+            <p class="hero-subtitle">Where magical stories come alive with animal friends and endless adventures</p>
+            <div class="hero-buttons">
+                <a href="{{ "/stories" | relURL }}" class="btn btn-primary">Read Stories</a>
+                <a href="{{ "/about" | relURL }}" class="btn btn-secondary">Learn More</a>
+            </div>
+        </div>
+        <div class="hero-image">
+            <img src="{{ "images/hero_image.png" | relURL }}" alt="Girl reading with forest animals" class="hero-img">
+        </div>
+    </div>
+    <div class="hero-decorations">
+        <div class="floating-element" data-speed="2">🦋</div>
+        <div class="floating-element" data-speed="3">🌸</div>
+        <div class="floating-element" data-speed="1.5">🍃</div>
+        <div class="floating-element" data-speed="2.5">✨</div>
+    </div>
+</section>
+
+<section class="featured-stories">
+    <div class="container">
+        <h2 class="section-title">Latest Stories</h2>
+        <div class="stories-grid">
+            {{ range first 3 (where .Site.RegularPages "Section" "stories") }}
+            <article class="story-card">
+                <div class="story-image">
+                    {{ if .Params.image }}
+                    <img src="{{ .Params.image | relURL }}" alt="{{ .Title }}">
+                    {{ else }}
+                    <div class="story-placeholder">📖</div>
+                    {{ end }}
+                </div>
+                <div class="story-content">
+                    <h3 class="story-title">{{ .Title }}</h3>
+                    <p class="story-excerpt">{{ .Summary | truncate 100 }}</p>
+                    <div class="story-meta">
+                        <span class="story-date">{{ .Date.Format "January 2, 2006" }}</span>
+                        <span class="story-reading-time">{{ .ReadingTime }} min read</span>
+                    </div>
+                    <a href="{{ .Permalink }}" class="story-link">Read Story</a>
+                </div>
+            </article>
+            {{ end }}
+        </div>
+        <div class="stories-cta">
+            <a href="{{ "/stories" | relURL }}" class="btn btn-outline">View All Stories</a>
+        </div>
+    </div>
+</section>
+
+<section class="about-preview">
+    <div class="container">
+        <div class="about-content">
+            <div class="about-text">
+                <h2>About Our Young Author</h2>
+                <p>Meet our amazing storyteller who creates wonderful tales filled with animal friends, magical adventures, and important life lessons. Every story is crafted with love and imagination!</p>
+                <a href="{{ "/about" | relURL }}" class="btn btn-primary">Learn More</a>
+            </div>
+            <div class="about-features">
+                <div class="feature">
+                    <div class="feature-icon">🐾</div>
+                    <h3>Animal Adventures</h3>
+                    <p>Stories featuring lovable animal characters</p>
+                </div>
+                <div class="feature">
+                    <div class="feature-icon">✨</div>
+                    <h3>Magical Tales</h3>
+                    <p>Enchanting stories that spark imagination</p>
+                </div>
+                <div class="feature">
+                    <div class="feature-icon">❤️</div>
+                    <h3>Life Lessons</h3>
+                    <p>Meaningful messages woven into every story</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+{{ end }}
+
