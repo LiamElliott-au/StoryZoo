@@ -2,7 +2,8 @@
 title: "The Play: Part 1"
 date: 2025-01-19
 description: "Ashleta tries out for the lead role in the upcoming play. Does she have what it takes?"
-tags: ["Ashleta", "Rosie", "Drama"]
+image: "images/ThePlay.png"
+tags: ["Ashleta", "Rosie", "Drama", "Animal Adventures"]
 ---
 
 ## Chapter 1

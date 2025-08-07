@@ -3,7 +3,7 @@ title: "Its Possible"
 date: 2025-01-19
 description: "Join Abigail, Poppy and Charlotte as they adventure to the edges of the universe"
 image: "images/ItsPossible.png"
-tags: ["Adventure", "Space", "Aliens", "UFO", "Abigail", "Poppy", "Charlotte"]
+tags: ["Adventure", "Space", "Aliens", "UFO", "Abigail", "Poppy", "Charlotte", "Magical Tales"]
 ---
 
 One night, as I sat in my bed gazing out the window I saw blinking lights and then a whooshing sound. I saw a round dish come past me. _A UFO!_ I think to myself. _No, that's impossible._ The blinking lights come nearer and nearer. A shine goes around the block.

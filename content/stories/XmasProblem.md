@@ -1,6 +1,7 @@
 ---
 title: "Xmas Problem"
 date: 2025-01-19
+image: "images/xmasProb.png"
 description: "The night before Christmas, there is a problem with Santa's Sleigh. Can Zing, the Elf, find a way to save Christmas"
 tags: ["Christmas", "Zing", "Trouble"]
 ---
