@@ -3,7 +3,7 @@ title: "Extreme SX"
 date: 2025-11-09
 description: "A thrilling day at the Extreme Rider Theme Park turns into an unexpected adventure when Mia, Harley, and Ophelia face a midair ride malfunction. With excitement, friendship, and a dash of superhero magic, the trio calls on Rosie to save the day."
 image: "images/extreme_sx.png"
-tags: ["Adventure", "Rollercoaster", Superhero", "Mia", "Harley", "Ophelia", "Rosie"]
+tags: ["Adventure", "Rollercoaster", "Superhero", "Mia", "Harley", "Ophelia", "Rosie"]
 ---
 “Harley\! Let’s go\!” Mia called. 
 
