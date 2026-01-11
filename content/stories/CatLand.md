@@ -1,6 +1,6 @@
 ---
 title: "Teleporting in Cat Land"
-date: 2026-01-12
+date: 2026-01-11
 description: "Join the gang as they adventure in CatLand"
 image: "images/CatLandHeader.png"
 tags: ["Adventure", "Teleporting", "Cats", "Tillie", "Tymia", "Aubrey", "Jake", "Timmy", "Amber"]
