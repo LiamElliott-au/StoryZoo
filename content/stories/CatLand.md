@@ -16,11 +16,11 @@ Amber winced and looked at the book. “We nearly got trapped last time but-“A
 “Aubrey, will you PLEASE be silent?”said Amber.  
 “Well, can we please go in the book, Mum’s at work all-day-and-night so just 1 Trip? Please besides the house maid, Jade is cleaning Raf the dog's room and is not allowed in the nursery (our playhouse).”  
 “If we do go, can we bring the KitKat’s and bring back a hamster?” Asked Jake.  
-Aubrey Laughed “Ha Ha Ha ha Ha ha ha ha ha ha” But then. There was somebody at the door! They heard the worst sound - a group of kids teleporting could hear*. Knock Knock knock.* Their hearts pounded, sweat rose and the door opened  and they saw- “ Hi guy’s Whaz up?” Luckily for them it was... Tymia! 
-Aubrey’s Bestest friend ever\! If you ask me, they were more than BFF's, probably BFFAL’s ( Best friends forever and longer) “So guy’s as I said: Whaz up?”  
+Aubrey Laughed “Ha Ha Ha ha Ha ha ha ha ha ha” But then. There was somebody at the door! They heard the worst sound - a group of kids teleporting could hear. *Knock Knock knock.* Their hearts pounded, sweat rose and the door opened  and they saw- “ Hi guy’s Whaz up?” Luckily for them it was... Tymia! 
+Aubrey’s Bestest friend ever! If you ask me, they were more than BFF's, probably BFFAL’s ( Best friends forever and longer) “So guy’s as I said: Whaz up?”  
 Then she glanced at Timmy’s wincing face behind his back and she saw… “Ohhh so you guys are going Teleporting. Can I come, please? I have never been there before. Every time you try to hide it the word gets out, So please???????”  
 The twins (Aubrey and Jake) glanced at each other and said “ Tillie please can we take Tymia with us? We will be good please please please” the twins pleaded.  
-Eventually Tillie gave in “FINE\! But no mischief” She said, eying Timmy. “Ok everyone join me in the countdown”  
+Eventually Tillie gave in “FINE! But no mischief” She said, eying Timmy. “Ok everyone join me in the countdown”  
 “Wait, what does time travel feel like” Tymia asked curiously  
  “Well, do you like roller coasters?” Asked Tillie.  
 Tymia nodded and joined in the countdown “10...9...8...7…6...5...4...3...2...1! Now! Twins say it!” Together the twins say “goodbye 75!” And with that they were spiraling to somewhere else.
