@@ -12,7 +12,7 @@ My Site, and the images may have been created with the help of AI, BUT... All th
 
 ## About Me
 
-I am 9 years old, from Sydney Australia where I live with my Mum, Dad, Brother and our Dog, Winter.
+I am 10 years old, from Sydney Australia where I live with my Mum, Dad, Brother and our Dog, Winter.
 
 ### Hobbies
 
